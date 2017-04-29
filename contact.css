@@ -1,0 +1,23 @@
+#contacts {
+    font-size:30px;
+    
+}
+img
+{
+  width:300px;
+  height:400px;
+  text-align: center;
+  border-radius:40px;
+   box-shadow: 7px 7px 5px #888888;
+}
+p {
+    font-size:30px;
+    
+}
+
+#Hospitalpic {
+    
+          position: absolute;  
+
+        
+}

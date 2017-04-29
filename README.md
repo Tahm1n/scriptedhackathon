@@ -1,4 +1,26 @@
-# scriptedhackathon
-Table F
+     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
+    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
+    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
+    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
+     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
+    ----------------------------------------------------------------- 
 
-This project shows the future of how people can be treated without a second wasted. We used Google maps api, we also had  seperate css files seperate html pages. We ran into couple of issues, such as index.html not responding. We also ran into some animation issues! My group and I learned different things, but personally I learned a lot more of css animations. The next time we cross paths, we'll make more animations on the page and more decorations, so it pleases the users eye.
+
+Hi there! Welcome to Cloud9 IDE!
+
+To get you started, we included a small hello world application.
+
+1) Open the hello-world.html file
+
+2) Click on the Preview button to open a live preview pane
+
+3) Make some changes to the file, save, watch the preview, and have fun!
+
+Happy coding!
+The Cloud9 IDE team
+
+
+## Support & Documentation
+
+Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
+To watch some training videos, visit http://www.youtube.com/user/c9ide

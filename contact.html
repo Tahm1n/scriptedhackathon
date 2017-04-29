@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<!-- HTML5 Hello world by kirupa - http://www.kirupa.com/html5/getting_your_feet_wet_html5_pg1.htm -->
+<html>
+<head>
+<link href= "contact.css" type="text/css" rel="stylesheet" />
+<link href= "styles.css" type="text/css" rel="stylesheet" />
+
+
+	
+<!---<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+<meta charset="utf-8">
+<link href= "Change.css" type="text/css" rel="stylesheet" />
+<title>A-team</title>-->
+
+</head>
+<body>  
+
+<div class="header">
+		<h1 class="name"><a href="index.html">Health Care of Tommorow</a></h1>
+			<audio autoplay>
+                <source src="img/Audio.mp3" type='audio/mp3'>
+            </audio>
+		<ul class="links">
+			<li><a href="About.html">About</a></li>
+			<li><a href="contact.html">Contact</a></li>
+			<li><a href="map.html">Map</a></li>
+		</ul>
+	</div>
+	
+<h1> Hospitals near by </h1>
+	
+<p>Names:</p>
+<ul id="contacts">
+	<li>Mount Sinai Beth Isreal -> 212-420-2000</li>
+	<li>Bellevue Hospital Center -> 212-562-4141</li>
+	<li>Tisch Hospital -> 212-263-5800</li>
+	<li>NYU Hospital Center -> 212-598-6321</li>
+	<li>Lenox Hill Hospital Center -> 212-434-2000</li>
+	<li>Saint Lukes Roosevelt Hospital -> 212-492-5500</li>
+</ul>
+<img id="Hospitalpic" src="img/hospital.jpg"/>
+
+<script
+  src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous"></script>
+  <script>
+	$("#Hospitalpic").animate({
+	    left: $("#Hospitalpic").parent().width() / 2 - $("#Hospitalpic").width() / 2
+	}, 2000);
+  </script>
+	
+</body>
+</html>
